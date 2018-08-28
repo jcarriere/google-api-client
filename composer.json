@@ -1,5 +1,5 @@
 {
-  "name": "mediafigaro/google-analytics-api-symfony",
+  "name": "jcarriere/google-api-client",
   "type": "symfony-bundle",
   "description": "Google Analytics API v4 Symfony",
   "keywords": ["symfony","google","analytics","api","v4"],
